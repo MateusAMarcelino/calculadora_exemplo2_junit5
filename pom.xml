@@ -3,10 +3,10 @@
     
     <modelVersion>4.0.0</modelVersion>
     <groupId>com</groupId>
-    <artifactId>exemplo1_calculadora</artifactId>
+    <artifactId>exemplo2_calculadora</artifactId>
     <version>1</version>
     <packaging>jar</packaging>
-    <name>exemplo1_calculadora</name>
+    <name>exemplo2_calculadora</name>
     
     <dependencies>
         <dependency>
